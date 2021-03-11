@@ -1,6 +1,7 @@
 # LucidNode -Windows  
   
-<img src="https://lucidcoin.io/logo.png" width="200">  
+<img src="https://lucidcoin.io/logo.png" width="100">  
+  
   
 1. Extract the files.  
 2. Double-click on 'Run.bat' to start the node.  
